@@ -40,7 +40,7 @@ body > div {
     background-color: #fff;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    border-bottom: 5px solid transparent;
+    border-bottom: 5px solid transparent; /* border-bottom ăn theo màu color chữ , transparent là để màu trong suốt */
     opacity: 0.6;
     cursor: pointer;
     transition: all 0.5s ease;
